@@ -1,0 +1,12 @@
+E:/FreeRTOS_V11/RTOS_workspace/common/Thirdparty/FreeRTOS/event_groups.c:145:28:xEventGroupCreate	2
+E:/FreeRTOS_V11/RTOS_workspace/common/Thirdparty/FreeRTOS/event_groups.c:185:17:xEventGroupSync	9
+E:/FreeRTOS_V11/RTOS_workspace/common/Thirdparty/FreeRTOS/event_groups.c:312:17:xEventGroupWaitBits	14
+E:/FreeRTOS_V11/RTOS_workspace/common/Thirdparty/FreeRTOS/event_groups.c:472:17:xEventGroupClearBits	3
+E:/FreeRTOS_V11/RTOS_workspace/common/Thirdparty/FreeRTOS/event_groups.c:524:17:xEventGroupGetBitsFromISR	1
+E:/FreeRTOS_V11/RTOS_workspace/common/Thirdparty/FreeRTOS/event_groups.c:547:17:xEventGroupSetBits	9
+E:/FreeRTOS_V11/RTOS_workspace/common/Thirdparty/FreeRTOS/event_groups.c:650:10:vEventGroupDelete	4
+E:/FreeRTOS_V11/RTOS_workspace/common/Thirdparty/FreeRTOS/event_groups.c:748:10:vEventGroupSetBitsCallback	1
+E:/FreeRTOS_V11/RTOS_workspace/common/Thirdparty/FreeRTOS/event_groups.c:764:10:vEventGroupClearBitsCallback	1
+E:/FreeRTOS_V11/RTOS_workspace/common/Thirdparty/FreeRTOS/event_groups.c:778:23:prvTestWaitCondition	4
+E:/FreeRTOS_V11/RTOS_workspace/common/Thirdparty/FreeRTOS/event_groups.c:838:21:uxEventGroupGetNumber	2
+E:/FreeRTOS_V11/RTOS_workspace/common/Thirdparty/FreeRTOS/event_groups.c:868:14:vEventGroupSetNumber	1
